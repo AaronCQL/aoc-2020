@@ -1,3 +1,9 @@
+(* 
+Run with OCaml's interpreter:
+$ ocaml
+# #use "main.ml";;
+*)
+
 (* PART 1 *)
 let input =
   let file = open_in "input.txt" in
