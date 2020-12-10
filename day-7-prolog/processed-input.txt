@@ -1,0 +1,594 @@
+contains(light_beige, [dark_green, light_gray, faded_indigo, vibrant_aqua], [5, 5, 3, 2]).
+contains(faded_purple, [shiny_green, mirrored_olive], [4, 2]).
+contains(drab_tomato, [shiny_coral], [4]).
+contains(mirrored_crimson, [bright_maroon], [4]).
+contains(faded_magenta, [clear_bronze, dim_brown, striped_cyan], [2, 5, 3]).
+contains(vibrant_beige, [pale_silver], [1]).
+contains(plaid_lavender, [striped_teal, vibrant_tan, clear_bronze, light_black], [5, 2, 3, 3]).
+contains(posh_maroon, [], []).
+contains(dotted_yellow, [plaid_turquoise, plaid_lavender, dotted_violet], [4, 2, 1]).
+contains(posh_fuchsia, [mirrored_gold, faded_bronze, faded_coral, vibrant_maroon], [5, 2, 2, 1]).
+contains(dotted_chartreuse, [pale_magenta], [1]).
+contains(muted_beige, [drab_cyan], [2]).
+contains(dark_olive, [dull_gold], [4]).
+contains(posh_yellow, [], []).
+contains(dotted_turquoise, [striped_indigo, pale_cyan, light_violet, plaid_silver], [5, 2, 5, 2]).
+contains(wavy_black, [light_cyan, pale_tomato], [1, 3]).
+contains(striped_plum, [wavy_maroon, dim_violet, shiny_tan], [5, 2, 5]).
+contains(shiny_olive, [vibrant_aqua], [5]).
+contains(dim_indigo, [dull_indigo, light_crimson, dark_magenta, vibrant_tomato], [3, 2, 2, 2]).
+contains(drab_tan, [vibrant_lime, faded_turquoise], [4, 1]).
+contains(muted_black, [dull_crimson, posh_tan, shiny_blue], [4, 2, 4]).
+contains(plaid_red, [clear_blue, plaid_white, dark_magenta, dark_purple], [5, 3, 4, 1]).
+contains(pale_black, [faded_beige, striped_black], [2, 1]).
+contains(striped_red, [vibrant_green, plaid_blue, drab_brown], [3, 4, 2]).
+contains(dotted_fuchsia, [striped_orange, dotted_maroon, posh_turquoise, drab_white], [1, 5, 4, 2]).
+contains(plaid_green, [posh_magenta, dark_black, clear_chartreuse], [3, 4, 3]).
+contains(dark_violet, [clear_teal, muted_cyan, shiny_coral, faded_teal], [2, 5, 2, 5]).
+contains(striped_gray, [bright_salmon, mirrored_brown], [3, 5]).
+contains(dull_aqua, [mirrored_cyan, mirrored_olive], [5, 1]).
+contains(light_indigo, [dotted_salmon, faded_lavender, dark_teal, dull_purple], [4, 5, 1, 2]).
+contains(dark_aqua, [clear_tan, muted_turquoise, drab_orange], [1, 5, 3]).
+contains(drab_orange, [mirrored_gray, muted_red, muted_gray], [5, 5, 3]).
+contains(wavy_beige, [light_beige, wavy_coral], [1, 5]).
+contains(dark_gray, [shiny_violet, dull_tomato], [4, 3]).
+contains(dull_indigo, [wavy_coral, dim_plum, shiny_cyan, vibrant_bronze], [4, 3, 2, 2]).
+contains(drab_gray, [drab_silver, vibrant_bronze, faded_red], [4, 1, 3]).
+contains(dotted_gold, [faded_silver], [2]).
+contains(muted_chartreuse, [clear_turquoise, muted_turquoise, dark_crimson], [3, 5, 4]).
+contains(dark_orange, [shiny_coral, mirrored_fuchsia, mirrored_teal], [4, 5, 5]).
+contains(light_olive, [shiny_coral, pale_purple, posh_yellow, shiny_gray], [4, 1, 2, 5]).
+contains(dotted_silver, [dotted_purple], [3]).
+contains(muted_bronze, [striped_silver, posh_plum, muted_blue, shiny_violet], [4, 1, 1, 5]).
+contains(striped_magenta, [dark_purple, dull_tomato, mirrored_lavender], [4, 2, 4]).
+contains(vibrant_violet, [plaid_purple, mirrored_olive, dotted_bronze, posh_turquoise], [1, 2, 3, 2]).
+contains(muted_cyan, [dotted_crimson, muted_red, plaid_lavender], [2, 1, 1]).
+contains(striped_black, [plaid_white, pale_cyan, posh_plum], [1, 5, 4]).
+contains(wavy_blue, [plaid_plum, shiny_bronze, shiny_magenta, vibrant_cyan], [3, 1, 1, 2]).
+contains(bright_gold, [mirrored_indigo, faded_cyan, posh_beige, faded_indigo], [2, 3, 3, 1]).
+contains(dim_magenta, [dark_black], [1]).
+contains(dotted_magenta, [posh_tomato, striped_white, posh_fuchsia, mirrored_tan], [1, 4, 2, 1]).
+contains(light_lime, [mirrored_fuchsia, dull_cyan, mirrored_chartreuse, dotted_beige], [1, 1, 1, 2]).
+contains(faded_crimson, [muted_blue], [1]).
+contains(dim_tomato, [plaid_black, striped_black], [2, 3]).
+contains(wavy_tan, [wavy_gray, striped_indigo], [3, 2]).
+contains(plaid_beige, [bright_yellow, dark_gray, dotted_gray], [2, 1, 5]).
+contains(bright_coral, [drab_white, bright_maroon, dotted_tan, shiny_salmon], [2, 3, 2, 4]).
+contains(plaid_tomato, [clear_white, clear_coral, mirrored_blue], [3, 2, 1]).
+contains(striped_chartreuse, [pale_green, muted_crimson], [4, 2]).
+contains(dim_salmon, [posh_magenta, dark_red, dull_teal, plaid_gray], [5, 5, 4, 4]).
+contains(plaid_aqua, [dark_black, light_chartreuse, dotted_maroon], [5, 1, 1]).
+contains(faded_silver, [plaid_silver, shiny_teal, clear_purple], [2, 1, 3]).
+contains(drab_red, [mirrored_brown], [2]).
+contains(faded_brown, [shiny_plum], [5]).
+contains(vibrant_indigo, [vibrant_bronze, wavy_orange], [2, 2]).
+contains(pale_salmon, [dull_cyan, wavy_orange], [5, 2]).
+contains(drab_olive, [striped_beige], [1]).
+contains(vibrant_white, [shiny_gold], [4]).
+contains(striped_teal, [faded_green, mirrored_brown], [4, 3]).
+contains(posh_beige, [posh_yellow, dull_yellow, posh_maroon], [3, 1, 2]).
+contains(pale_violet, [shiny_teal, drab_purple, light_turquoise, pale_tan], [3, 5, 5, 4]).
+contains(light_turquoise, [dim_lavender], [4]).
+contains(muted_yellow, [dim_crimson, wavy_gray], [4, 2]).
+contains(mirrored_maroon, [wavy_silver, dull_aqua, faded_black, faded_cyan], [5, 5, 1, 1]).
+contains(drab_lavender, [drab_tan, pale_violet, wavy_indigo], [4, 4, 2]).
+contains(light_salmon, [dim_magenta, dull_orange], [2, 5]).
+contains(drab_turquoise, [shiny_gold], [5]).
+contains(vibrant_magenta, [wavy_maroon, dotted_gray], [5, 4]).
+contains(clear_violet, [bright_red, faded_plum], [1, 2]).
+contains(clear_beige, [faded_purple], [5]).
+contains(light_silver, [vibrant_gray, wavy_gray, drab_salmon], [4, 2, 4]).
+contains(dark_coral, [bright_plum], [5]).
+contains(pale_white, [posh_tomato, clear_purple, posh_crimson], [3, 1, 2]).
+contains(vibrant_yellow, [posh_gold, plaid_turquoise, muted_blue], [5, 2, 5]).
+contains(drab_yellow, [bright_salmon, clear_blue, faded_indigo], [3, 3, 1]).
+contains(pale_red, [drab_olive], [5]).
+contains(muted_lime, [vibrant_fuchsia, shiny_coral, mirrored_violet, wavy_gray], [1, 1, 2, 5]).
+contains(faded_chartreuse, [muted_tomato, dotted_gray, faded_cyan, dotted_plum], [2, 5, 1, 1]).
+contains(dark_beige, [dotted_violet, bright_silver, posh_magenta, faded_fuchsia], [3, 5, 4, 4]).
+contains(pale_olive, [plaid_red, posh_maroon], [3, 5]).
+contains(vibrant_brown, [plaid_white, dotted_gold, faded_chartreuse], [1, 3, 2]).
+contains(bright_orange, [shiny_magenta], [2]).
+contains(light_coral, [faded_black, faded_coral, plaid_teal, dull_aqua], [3, 4, 4, 1]).
+contains(dull_silver, [drab_salmon, shiny_violet, dull_aqua, faded_black], [2, 2, 1, 5]).
+contains(striped_cyan, [faded_purple], [1]).
+contains(dim_beige, [wavy_violet], [5]).
+contains(dotted_coral, [dim_salmon, clear_beige, shiny_bronze, light_tan], [4, 5, 2, 2]).
+contains(faded_aqua, [bright_magenta, posh_olive], [3, 3]).
+contains(mirrored_tan, [plaid_silver, striped_gray], [5, 5]).
+contains(striped_beige, [dull_yellow], [4]).
+contains(wavy_coral, [], []).
+contains(dark_indigo, [drab_olive, faded_cyan, dim_yellow], [1, 2, 5]).
+contains(dark_white, [vibrant_gray, mirrored_plum, clear_lavender, shiny_purple], [1, 3, 5, 1]).
+contains(muted_maroon, [dim_blue, pale_silver], [1, 1]).
+contains(dotted_gray, [mirrored_teal, shiny_gold, drab_gold], [1, 2, 5]).
+contains(dull_tan, [bright_silver, pale_lavender, wavy_gray], [4, 4, 3]).
+contains(dark_chartreuse, [wavy_tan, striped_orange, posh_salmon], [2, 1, 1]).
+contains(wavy_gray, [], []).
+contains(drab_brown, [], []).
+contains(dotted_red, [shiny_yellow, muted_yellow, pale_lime], [2, 1, 2]).
+contains(bright_black, [striped_gray, dull_yellow], [4, 2]).
+contains(clear_tan, [shiny_gold, dark_magenta, bright_aqua, clear_maroon], [3, 1, 5, 1]).
+contains(dim_silver, [pale_green, clear_orange, pale_white, posh_yellow], [2, 3, 2, 1]).
+contains(mirrored_chartreuse, [wavy_gray, shiny_magenta, plaid_purple, dotted_beige], [1, 5, 2, 2]).
+contains(striped_indigo, [pale_bronze, muted_blue], [5, 1]).
+contains(dull_plum, [plaid_red, bright_plum], [2, 5]).
+contains(striped_tan, [vibrant_aqua, muted_blue], [3, 2]).
+contains(dotted_teal, [vibrant_tan, bright_plum], [3, 3]).
+contains(wavy_white, [muted_black, muted_tomato, bright_gold], [2, 2, 4]).
+contains(muted_lavender, [clear_beige], [3]).
+contains(striped_salmon, [faded_coral, clear_green], [1, 1]).
+contains(vibrant_tomato, [shiny_violet], [3]).
+contains(dim_olive, [faded_tan, mirrored_maroon, dark_crimson, muted_cyan], [2, 3, 3, 5]).
+contains(dotted_lime, [muted_violet, light_beige, drab_brown], [5, 3, 2]).
+contains(striped_purple, [dull_gray], [2]).
+contains(wavy_tomato, [posh_crimson, vibrant_tan, bright_maroon], [1, 5, 3]).
+contains(bright_lavender, [mirrored_lavender, shiny_cyan], [2, 4]).
+contains(faded_turquoise, [dull_gray, dull_yellow, dotted_bronze, vibrant_aqua], [3, 5, 5, 4]).
+contains(vibrant_olive, [dull_violet, dark_coral], [4, 5]).
+contains(bright_cyan, [bright_turquoise], [3]).
+contains(pale_aqua, [shiny_green, clear_silver, muted_tan], [5, 3, 4]).
+contains(vibrant_cyan, [vibrant_maroon, plaid_magenta, light_black, bright_maroon], [2, 5, 1, 5]).
+contains(striped_lime, [faded_red, mirrored_brown, dim_plum, wavy_silver], [4, 3, 4, 4]).
+contains(pale_gold, [posh_plum, dull_tomato, dark_teal, shiny_black], [5, 1, 3, 4]).
+contains(drab_black, [pale_brown], [5]).
+contains(wavy_maroon, [dull_yellow, dim_crimson, dim_lavender, drab_brown], [1, 4, 1, 2]).
+contains(plaid_gold, [dotted_gray, pale_orange, mirrored_brown], [2, 2, 5]).
+contains(shiny_gray, [faded_lavender, drab_yellow, wavy_green], [3, 3, 3]).
+contains(bright_beige, [drab_turquoise], [2]).
+contains(muted_red, [wavy_gray, mirrored_lime], [4, 5]).
+contains(bright_violet, [striped_cyan, pale_blue, clear_plum], [5, 2, 1]).
+contains(plaid_bronze, [muted_green, posh_gray, dull_silver, faded_black], [5, 5, 1, 4]).
+contains(shiny_gold, [wavy_green, mirrored_teal, dark_tomato, faded_beige], [4, 2, 4, 2]).
+contains(plaid_cyan, [bright_green], [5]).
+contains(posh_green, [mirrored_beige], [5]).
+contains(dull_purple, [dull_blue], [5]).
+contains(pale_fuchsia, [mirrored_cyan, faded_red, wavy_green], [4, 1, 5]).
+contains(wavy_olive, [dotted_olive, shiny_tan, dotted_magenta, clear_violet], [5, 3, 4, 2]).
+contains(faded_tan, [plaid_teal, muted_tomato], [3, 5]).
+contains(pale_blue, [faded_plum, wavy_green, shiny_violet, faded_black], [4, 5, 3, 2]).
+contains(vibrant_blue, [shiny_yellow, clear_tan, posh_crimson], [1, 2, 5]).
+contains(mirrored_beige, [shiny_magenta, pale_blue], [5, 3]).
+contains(dark_maroon, [bright_green, faded_bronze, faded_indigo, dotted_teal], [4, 5, 1, 3]).
+contains(plaid_violet, [posh_yellow, faded_cyan, mirrored_lime, striped_black], [4, 3, 1, 2]).
+contains(wavy_indigo, [dotted_aqua, drab_salmon, bright_cyan, dotted_purple], [5, 1, 5, 4]).
+contains(dull_violet, [vibrant_tomato, plaid_blue, shiny_plum, dotted_aqua], [1, 4, 5, 2]).
+contains(dotted_salmon, [plaid_gray], [5]).
+contains(drab_salmon, [faded_yellow], [4]).
+contains(light_maroon, [bright_cyan], [5]).
+contains(drab_cyan, [dark_beige, dotted_purple, dark_coral], [2, 1, 5]).
+contains(faded_salmon, [clear_bronze, muted_green, faded_plum, bright_silver], [4, 4, 1, 4]).
+contains(clear_turquoise, [shiny_silver, striped_maroon, posh_chartreuse], [5, 5, 5]).
+contains(clear_silver, [vibrant_fuchsia, vibrant_lime, faded_red], [5, 5, 5]).
+contains(muted_magenta, [dotted_teal, wavy_orange], [3, 3]).
+contains(striped_aqua, [bright_green, mirrored_maroon, muted_gold, pale_brown], [4, 2, 5, 2]).
+contains(drab_magenta, [vibrant_tomato, wavy_violet], [5, 1]).
+contains(clear_yellow, [drab_salmon], [4]).
+contains(striped_gold, [dull_salmon], [3]).
+contains(posh_black, [dim_black, plaid_crimson], [2, 4]).
+contains(drab_fuchsia, [drab_turquoise], [1]).
+contains(mirrored_fuchsia, [shiny_cyan, dim_crimson, drab_brown], [5, 4, 2]).
+contains(pale_lavender, [shiny_lavender, mirrored_fuchsia, wavy_silver, bright_black], [1, 4, 1, 1]).
+contains(light_teal, [vibrant_fuchsia, mirrored_indigo], [2, 4]).
+contains(light_cyan, [mirrored_cyan, faded_fuchsia], [5, 1]).
+contains(wavy_lavender, [faded_gray], [1]).
+contains(clear_purple, [light_red, shiny_teal], [4, 3]).
+contains(mirrored_coral, [bright_tomato, drab_fuchsia, pale_salmon, wavy_teal], [2, 4, 4, 1]).
+contains(muted_crimson, [faded_lime, wavy_plum, bright_gold], [2, 2, 5]).
+contains(plaid_silver, [wavy_coral, shiny_violet, faded_beige], [4, 3, 5]).
+contains(posh_orange, [dim_blue, mirrored_lime, muted_chartreuse], [4, 4, 1]).
+contains(dotted_olive, [dim_plum, bright_aqua], [4, 5]).
+contains(vibrant_black, [dark_purple], [3]).
+contains(dim_turquoise, [shiny_coral, dotted_indigo, muted_yellow, dull_bronze], [3, 4, 4, 4]).
+contains(light_gray, [plaid_silver, faded_purple, faded_green], [1, 4, 3]).
+contains(muted_white, [faded_yellow, dark_white, drab_green, dim_yellow], [2, 4, 3, 4]).
+contains(pale_gray, [pale_brown, dotted_indigo, mirrored_indigo, bright_silver], [4, 3, 1, 1]).
+contains(dull_brown, [plaid_silver, pale_bronze, dark_magenta, posh_yellow], [1, 2, 3, 5]).
+contains(bright_indigo, [dull_red, dark_yellow], [4, 5]).
+contains(dotted_purple, [muted_yellow], [2]).
+contains(bright_salmon, [vibrant_orange, vibrant_bronze, shiny_coral, drab_brown], [2, 4, 4, 3]).
+contains(shiny_chartreuse, [dotted_red, wavy_lavender, muted_aqua], [1, 4, 2]).
+contains(light_brown, [dark_teal, faded_lime, bright_coral, plaid_red], [3, 3, 5, 5]).
+contains(dim_orange, [clear_lime, plaid_teal, plaid_lavender], [4, 2, 4]).
+contains(wavy_teal, [drab_chartreuse], [3]).
+contains(posh_purple, [striped_salmon, mirrored_black], [4, 2]).
+contains(dim_cyan, [mirrored_fuchsia, dotted_bronze, light_violet], [5, 5, 1]).
+contains(clear_fuchsia, [dim_yellow, pale_yellow], [3, 1]).
+contains(muted_fuchsia, [mirrored_beige, dull_black, mirrored_red], [2, 4, 5]).
+contains(striped_bronze, [muted_violet, dull_brown, drab_silver, dotted_maroon], [3, 4, 4, 5]).
+contains(bright_silver, [drab_gray, wavy_coral, posh_yellow], [2, 3, 4]).
+contains(light_tomato, [muted_green, bright_indigo, wavy_blue], [1, 3, 1]).
+contains(dark_red, [dim_brown], [1]).
+contains(vibrant_fuchsia, [shiny_gold], [1]).
+contains(vibrant_crimson, [dull_olive, striped_orange], [4, 1]).
+contains(clear_lime, [dull_crimson], [5]).
+contains(clear_lavender, [dotted_gold, light_crimson, mirrored_red, dark_purple], [2, 3, 3, 2]).
+contains(dark_silver, [muted_silver], [4]).
+contains(posh_white, [light_maroon, dotted_brown, light_yellow], [3, 5, 5]).
+contains(dark_gold, [muted_plum, posh_silver], [4, 4]).
+contains(dotted_cyan, [shiny_magenta, drab_red], [4, 3]).
+contains(plaid_chartreuse, [posh_fuchsia, light_white], [3, 4]).
+contains(dim_lime, [dull_green, posh_magenta], [2, 5]).
+contains(shiny_indigo, [light_violet, plaid_orange, drab_turquoise, striped_beige], [5, 3, 2, 5]).
+contains(bright_tan, [dotted_fuchsia, dim_yellow, mirrored_violet, plaid_silver], [3, 1, 2, 2]).
+contains(mirrored_green, [plaid_turquoise, bright_turquoise, light_lime, plaid_white], [2, 5, 5, 5]).
+contains(light_purple, [striped_silver], [2]).
+contains(shiny_violet, [dull_yellow, faded_red, pale_lime, drab_brown], [4, 1, 3, 4]).
+contains(pale_coral, [drab_indigo], [5]).
+contains(faded_olive, [posh_tan, striped_orange, wavy_gold], [4, 3, 3]).
+contains(wavy_cyan, [mirrored_teal], [3]).
+contains(wavy_magenta, [bright_coral, dark_black, muted_beige], [5, 2, 1]).
+contains(wavy_green, [light_violet], [2]).
+contains(shiny_purple, [wavy_orange, striped_turquoise], [5, 3]).
+contains(wavy_orange, [bright_turquoise, mirrored_lime, light_violet], [2, 3, 5]).
+contains(shiny_crimson, [plaid_olive, mirrored_turquoise, posh_lavender, muted_bronze], [5, 2, 3, 4]).
+contains(dark_tomato, [posh_maroon, dotted_purple, shiny_violet, drab_silver], [3, 5, 1, 2]).
+contains(clear_green, [light_black], [1]).
+contains(clear_indigo, [vibrant_crimson], [5]).
+contains(muted_coral, [mirrored_black, dull_silver], [2, 4]).
+contains(clear_teal, [posh_tan, faded_plum, wavy_maroon, mirrored_lavender], [1, 3, 3, 1]).
+contains(shiny_tomato, [clear_tomato, bright_gray, striped_cyan, vibrant_lavender], [1, 5, 1, 5]).
+contains(shiny_silver, [dim_violet, striped_teal, mirrored_beige, drab_turquoise], [2, 2, 2, 3]).
+contains(posh_indigo, [drab_fuchsia], [5]).
+contains(dull_lime, [vibrant_cyan, vibrant_chartreuse], [5, 5]).
+contains(mirrored_lavender, [drab_gold, vibrant_aqua, plaid_teal], [2, 5, 1]).
+contains(faded_coral, [clear_tan, faded_green, faded_fuchsia, drab_brown], [2, 4, 2, 3]).
+contains(mirrored_purple, [plaid_black, dim_teal, muted_bronze], [1, 5, 4]).
+contains(bright_lime, [light_lavender], [1]).
+contains(pale_turquoise, [striped_silver, muted_tan, vibrant_lime, faded_lime], [2, 2, 4, 4]).
+contains(posh_cyan, [bright_salmon], [4]).
+contains(wavy_bronze, [drab_olive, plaid_orange, wavy_silver, faded_bronze], [1, 5, 1, 2]).
+contains(light_tan, [faded_violet], [3]).
+contains(mirrored_brown, [pale_lime, dull_gray, dotted_bronze], [2, 2, 5]).
+contains(posh_lime, [dotted_beige], [4]).
+contains(drab_maroon, [wavy_gray, posh_magenta, dull_gray], [5, 4, 2]).
+contains(light_yellow, [striped_lime, faded_purple, plaid_silver, muted_violet], [4, 3, 1, 2]).
+contains(vibrant_silver, [posh_purple], [3]).
+contains(mirrored_plum, [muted_salmon, light_salmon, faded_brown], [1, 4, 2]).
+contains(mirrored_gray, [wavy_silver, dotted_maroon, posh_maroon, muted_blue], [1, 1, 4, 3]).
+contains(light_blue, [striped_magenta, dim_plum, muted_tomato], [5, 2, 4]).
+contains(dim_violet, [dotted_maroon, pale_lime, mirrored_brown, bright_salmon], [4, 1, 2, 2]).
+contains(dotted_violet, [dim_maroon, faded_beige], [2, 3]).
+contains(shiny_red, [wavy_gray, clear_bronze], [1, 3]).
+contains(dotted_black, [pale_fuchsia], [4]).
+contains(mirrored_gold, [pale_cyan, dark_green, plaid_white, drab_black], [3, 1, 5, 1]).
+contains(shiny_plum, [posh_crimson, bright_yellow, dull_indigo], [1, 5, 1]).
+contains(dotted_brown, [dotted_black, clear_yellow, mirrored_violet, shiny_gold], [5, 2, 1, 4]).
+contains(faded_orange, [posh_indigo, bright_magenta, light_teal, bright_turquoise], [3, 3, 2, 2]).
+contains(mirrored_tomato, [dim_bronze, bright_salmon, dark_purple, light_olive], [1, 1, 4, 4]).
+contains(dotted_orange, [faded_brown], [3]).
+contains(dull_red, [plaid_black], [1]).
+contains(dim_purple, [vibrant_purple, dim_cyan, clear_tan, wavy_beige], [3, 2, 3, 5]).
+contains(dull_coral, [drab_chartreuse], [5]).
+contains(dull_black, [vibrant_bronze], [1]).
+contains(pale_crimson, [striped_brown], [4]).
+contains(faded_green, [shiny_gold, dim_maroon], [2, 5]).
+contains(shiny_bronze, [dull_turquoise], [4]).
+contains(dotted_tomato, [clear_teal, wavy_crimson, clear_tan], [3, 2, 4]).
+contains(pale_purple, [shiny_aqua], [2]).
+contains(bright_teal, [drab_salmon, dim_yellow, drab_maroon], [2, 4, 1]).
+contains(pale_tomato, [striped_black, mirrored_fuchsia], [3, 2]).
+contains(striped_silver, [wavy_turquoise], [1]).
+contains(dim_gold, [dim_crimson, dim_violet, striped_bronze], [5, 4, 2]).
+contains(light_orange, [mirrored_turquoise, bright_crimson, pale_tan, drab_teal], [2, 5, 4, 1]).
+contains(wavy_salmon, [plaid_orange, faded_cyan, clear_purple, dotted_orange], [3, 2, 3, 5]).
+contains(vibrant_chartreuse, [plaid_red, dull_aqua, mirrored_brown], [2, 3, 1]).
+contains(striped_orange, [dim_crimson, wavy_coral, dim_plum], [4, 2, 1]).
+contains(light_black, [clear_bronze, posh_cyan, vibrant_fuchsia], [2, 2, 1]).
+contains(dark_salmon, [vibrant_tan, shiny_chartreuse], [2, 1]).
+contains(drab_gold, [dim_crimson, light_violet, vibrant_orange], [4, 2, 1]).
+contains(bright_bronze, [clear_green], [3]).
+contains(dim_coral, [dark_red, dim_lavender], [3, 5]).
+contains(dull_orange, [drab_black, dotted_violet, dim_blue], [5, 1, 3]).
+contains(clear_brown, [dark_red, dull_turquoise, mirrored_red, wavy_beige], [2, 1, 1, 5]).
+contains(muted_tan, [dotted_teal, mirrored_cyan, faded_fuchsia, drab_white], [3, 3, 5, 2]).
+contains(faded_lavender, [muted_silver, mirrored_brown, dark_tomato, pale_lime], [1, 1, 3, 3]).
+contains(dim_bronze, [bright_yellow], [1]).
+contains(wavy_lime, [bright_aqua, wavy_silver], [4, 5]).
+contains(dark_black, [dark_green], [4]).
+contains(faded_lime, [faded_lavender, plaid_gray, posh_turquoise, faded_bronze], [1, 5, 3, 5]).
+contains(drab_lime, [light_cyan, dotted_red], [1, 4]).
+contains(dull_olive, [dim_plum, pale_lime, posh_yellow, shiny_violet], [3, 3, 4, 5]).
+contains(clear_black, [faded_fuchsia, posh_aqua], [1, 3]).
+contains(dark_crimson, [dotted_beige], [2]).
+contains(faded_cyan, [clear_blue], [5]).
+contains(pale_tan, [posh_aqua, dim_yellow, light_chartreuse], [4, 5, 2]).
+contains(light_red, [faded_fuchsia, dotted_purple, mirrored_indigo, shiny_violet], [3, 5, 2, 3]).
+contains(muted_olive, [posh_tan, faded_tan], [5, 4]).
+contains(plaid_yellow, [faded_coral], [4]).
+contains(clear_tomato, [plaid_salmon, faded_lavender], [3, 2]).
+contains(vibrant_maroon, [muted_lime, vibrant_fuchsia, drab_yellow], [3, 4, 4]).
+contains(posh_red, [posh_cyan, faded_black, bright_crimson, wavy_plum], [5, 2, 1, 5]).
+contains(mirrored_silver, [dull_aqua], [5]).
+contains(wavy_yellow, [faded_white, dotted_fuchsia], [3, 1]).
+contains(light_plum, [vibrant_bronze, vibrant_green, plaid_turquoise, posh_cyan], [1, 4, 1, 4]).
+contains(shiny_lime, [posh_tomato, mirrored_cyan, plaid_white, shiny_aqua], [1, 4, 2, 3]).
+contains(light_gold, [drab_silver, clear_brown, wavy_fuchsia], [1, 3, 2]).
+contains(dotted_indigo, [plaid_teal, dull_yellow], [2, 1]).
+contains(bright_fuchsia, [faded_teal, faded_silver, dim_red, muted_lime], [3, 2, 3, 1]).
+contains(mirrored_black, [muted_violet], [5]).
+contains(dark_magenta, [dim_crimson], [5]).
+contains(shiny_yellow, [clear_tan], [3]).
+contains(muted_orange, [striped_bronze], [3]).
+contains(dull_bronze, [dotted_gray, clear_bronze, light_turquoise], [1, 2, 5]).
+contains(mirrored_blue, [shiny_coral], [3]).
+contains(vibrant_turquoise, [pale_blue, shiny_beige], [2, 4]).
+contains(pale_green, [posh_crimson, drab_gold, drab_brown], [1, 2, 3]).
+contains(striped_yellow, [mirrored_red, plaid_salmon, muted_salmon, faded_tan], [5, 4, 4, 5]).
+contains(faded_tomato, [clear_blue], [5]).
+contains(faded_teal, [posh_teal, light_violet, dotted_olive, shiny_teal], [2, 3, 5, 3]).
+contains(clear_blue, [dull_yellow, light_violet, wavy_coral, shiny_cyan], [3, 3, 2, 4]).
+contains(dotted_blue, [muted_coral, muted_salmon], [5, 4]).
+contains(shiny_lavender, [dotted_crimson, light_lime, posh_cyan], [2, 4, 1]).
+contains(mirrored_magenta, [mirrored_fuchsia, clear_teal, muted_fuchsia], [3, 3, 4]).
+contains(faded_yellow, [dim_crimson, dull_cyan], [1, 3]).
+contains(muted_teal, [dull_red], [3]).
+contains(light_lavender, [striped_orange, mirrored_beige], [4, 2]).
+contains(posh_chartreuse, [dark_purple], [2]).
+contains(pale_beige, [pale_silver, striped_crimson], [4, 2]).
+contains(pale_lime, [], []).
+contains(faded_blue, [mirrored_red, drab_cyan, dull_yellow, plaid_plum], [1, 3, 3, 5]).
+contains(dull_maroon, [light_blue, dull_crimson, clear_yellow], [5, 3, 3]).
+contains(dim_plum, [], []).
+contains(drab_beige, [light_black, striped_teal, mirrored_violet], [5, 1, 4]).
+contains(pale_orange, [clear_chartreuse], [4]).
+contains(dotted_beige, [dark_yellow, light_black, bright_aqua], [4, 3, 5]).
+contains(plaid_salmon, [posh_silver, wavy_violet, striped_tan], [3, 2, 3]).
+contains(clear_gray, [wavy_purple], [4]).
+contains(drab_coral, [faded_silver, light_fuchsia, dull_indigo, drab_cyan], [2, 3, 2, 3]).
+contains(dark_yellow, [mirrored_fuchsia], [2]).
+contains(posh_turquoise, [dim_lavender, muted_yellow, bright_plum], [2, 1, 4]).
+contains(bright_tomato, [striped_orange, bright_turquoise, dull_yellow], [5, 3, 3]).
+contains(drab_silver, [light_turquoise, mirrored_indigo, vibrant_orange], [2, 3, 4]).
+contains(clear_cyan, [muted_cyan, faded_silver, faded_yellow, faded_crimson], [4, 2, 3, 4]).
+contains(mirrored_orange, [dark_green, drab_salmon, posh_gray], [3, 5, 4]).
+contains(muted_gray, [mirrored_lime], [2]).
+contains(pale_brown, [dull_gray], [4]).
+contains(wavy_silver, [faded_red, muted_silver], [5, 5]).
+contains(dull_blue, [dotted_olive, muted_violet], [1, 4]).
+contains(dull_magenta, [muted_silver, posh_salmon, plaid_tomato], [4, 4, 4]).
+contains(dark_cyan, [shiny_purple, vibrant_coral, posh_green, dull_cyan], [5, 3, 1, 2]).
+contains(shiny_turquoise, [pale_white, dotted_black], [3, 5]).
+contains(dark_green, [dim_maroon], [4]).
+contains(posh_magenta, [pale_brown], [2]).
+contains(dull_salmon, [posh_magenta, dotted_indigo, drab_orange, mirrored_gray], [5, 5, 4, 5]).
+contains(dull_gray, [wavy_coral, vibrant_tan, mirrored_olive], [5, 5, 5]).
+contains(dull_turquoise, [clear_black, striped_indigo, shiny_white, faded_fuchsia], [3, 5, 3, 2]).
+contains(striped_violet, [faded_white], [2]).
+contains(muted_brown, [dim_cyan, drab_black, clear_bronze, shiny_green], [2, 4, 5, 1]).
+contains(drab_plum, [dark_teal, plaid_lavender, mirrored_blue], [2, 5, 4]).
+contains(striped_green, [mirrored_olive, clear_green, dim_yellow, muted_red], [1, 3, 3, 3]).
+contains(bright_white, [shiny_coral, faded_fuchsia], [5, 5]).
+contains(vibrant_tan, [], []).
+contains(faded_white, [pale_crimson, plaid_green, faded_bronze], [4, 1, 5]).
+contains(clear_orange, [bright_cyan, dotted_green, faded_purple, faded_black], [3, 4, 3, 3]).
+contains(drab_chartreuse, [wavy_gray, muted_turquoise], [5, 4]).
+contains(mirrored_aqua, [bright_crimson, mirrored_magenta, clear_teal], [2, 4, 3]).
+contains(wavy_crimson, [posh_yellow, clear_blue, striped_lime, faded_cyan], [5, 3, 1, 2]).
+contains(shiny_black, [dim_cyan, striped_beige, posh_beige, bright_gold], [4, 3, 3, 4]).
+contains(wavy_brown, [wavy_coral, shiny_yellow], [2, 3]).
+contains(pale_plum, [drab_olive, light_turquoise], [3, 1]).
+contains(drab_green, [mirrored_orange, dark_turquoise, posh_chartreuse, pale_magenta], [1, 5, 5, 2]).
+contains(drab_teal, [faded_silver, striped_brown, drab_purple], [5, 4, 4]).
+contains(dull_gold, [dark_orange, faded_lime], [1, 4]).
+contains(posh_gray, [posh_cyan, plaid_crimson, plaid_olive, bright_yellow], [1, 2, 1, 2]).
+contains(dim_red, [posh_chartreuse, drab_white, bright_green, drab_yellow], [3, 4, 2, 4]).
+contains(dull_chartreuse, [drab_fuchsia, dull_crimson, light_coral], [1, 2, 4]).
+contains(plaid_magenta, [mirrored_silver], [1]).
+contains(drab_crimson, [faded_tan], [3]).
+contains(faded_bronze, [dim_plum, faded_fuchsia, bright_aqua, vibrant_orange], [4, 4, 4, 2]).
+contains(plaid_gray, [light_fuchsia, dotted_turquoise], [3, 1]).
+contains(vibrant_bronze, [wavy_green, muted_yellow], [1, 2]).
+contains(clear_maroon, [dim_plum, light_red, wavy_silver], [3, 4, 5]).
+contains(drab_blue, [plaid_gray, mirrored_gray, shiny_magenta], [1, 5, 5]).
+contains(posh_bronze, [muted_crimson, wavy_gray], [3, 5]).
+contains(dim_black, [bright_green, dim_maroon, mirrored_cyan, faded_black], [1, 3, 4, 4]).
+contains(vibrant_green, [vibrant_blue, wavy_gold, vibrant_fuchsia, muted_yellow], [4, 4, 5, 3]).
+contains(dim_teal, [faded_fuchsia, striped_lavender, pale_lime, clear_maroon], [5, 3, 2, 4]).
+contains(posh_silver, [shiny_magenta], [2]).
+contains(plaid_blue, [pale_brown, drab_brown, drab_plum, wavy_maroon], [2, 4, 2, 1]).
+contains(dim_fuchsia, [dark_purple, shiny_red, clear_chartreuse, pale_gold], [3, 4, 1, 2]).
+contains(muted_turquoise, [striped_maroon, dim_lavender, clear_beige, wavy_maroon], [4, 1, 2, 3]).
+contains(shiny_beige, [shiny_red, vibrant_bronze, plaid_chartreuse, mirrored_teal], [4, 1, 5, 3]).
+contains(muted_blue, [pale_lime, dim_crimson], [3, 4]).
+contains(faded_black, [striped_beige, muted_blue], [4, 4]).
+contains(muted_plum, [drab_white, dull_cyan, light_gray], [5, 2, 1]).
+contains(dark_tan, [light_aqua], [2]).
+contains(clear_white, [dotted_plum], [5]).
+contains(dotted_aqua, [posh_turquoise, bright_aqua], [4, 5]).
+contains(posh_gold, [pale_crimson, light_fuchsia, plaid_turquoise], [5, 4, 4]).
+contains(bright_turquoise, [mirrored_brown, dotted_black, dull_indigo, plaid_white], [3, 2, 3, 4]).
+contains(light_white, [mirrored_brown, dim_magenta], [5, 2]).
+contains(posh_crimson, [bright_green, posh_yellow, posh_turquoise, vibrant_aqua], [1, 3, 4, 4]).
+contains(muted_silver, [dotted_purple, posh_yellow, mirrored_indigo, shiny_violet], [1, 2, 5, 4]).
+contains(pale_indigo, [mirrored_aqua, vibrant_tomato, striped_violet, shiny_white], [2, 1, 5, 2]).
+contains(vibrant_aqua, [pale_bronze, posh_yellow, dull_cyan, bright_silver], [5, 5, 2, 2]).
+contains(posh_brown, [bright_green, mirrored_fuchsia, dotted_salmon], [2, 4, 4]).
+contains(shiny_orange, [faded_lavender, dull_yellow], [2, 3]).
+contains(shiny_fuchsia, [striped_teal], [2]).
+contains(dark_lavender, [mirrored_teal, plaid_gray], [4, 5]).
+contains(vibrant_teal, [drab_orange, plaid_red, clear_cyan], [3, 1, 4]).
+contains(dotted_lavender, [pale_gray], [5]).
+contains(plaid_lime, [bright_maroon, dim_tomato, mirrored_teal], [5, 2, 2]).
+contains(dim_white, [plaid_turquoise, faded_red, striped_orange], [3, 2, 5]).
+contains(shiny_coral, [posh_turquoise], [2]).
+contains(posh_coral, [bright_salmon, dim_coral, pale_fuchsia], [4, 4, 1]).
+contains(drab_aqua, [vibrant_maroon, muted_green, muted_red], [1, 4, 5]).
+contains(dim_crimson, [], []).
+contains(vibrant_purple, [dark_teal, muted_crimson], [5, 3]).
+contains(dull_fuchsia, [dull_aqua, clear_silver], [5, 3]).
+contains(dotted_green, [dull_tomato, drab_black, dim_red], [3, 3, 5]).
+contains(muted_green, [light_cyan, light_red, posh_turquoise, dark_orange], [4, 2, 3, 3]).
+contains(wavy_aqua, [faded_white, dim_brown, plaid_salmon], [4, 5, 2]).
+contains(light_magenta, [dotted_black, posh_blue, bright_coral], [4, 3, 2]).
+contains(light_aqua, [light_yellow, plaid_gray, vibrant_cyan, dotted_aqua], [1, 1, 1, 4]).
+contains(dark_purple, [plaid_silver, muted_gray, clear_maroon], [2, 2, 1]).
+contains(wavy_violet, [plaid_white, dull_red], [4, 5]).
+contains(faded_plum, [posh_beige, light_turquoise, vibrant_orange], [5, 2, 5]).
+contains(dull_beige, [dark_blue, shiny_green], [2, 2]).
+contains(clear_crimson, [vibrant_salmon], [1]).
+contains(drab_violet, [faded_purple, plaid_turquoise], [4, 4]).
+contains(dull_white, [striped_brown, wavy_black], [4, 5]).
+contains(dark_teal, [faded_fuchsia, dotted_maroon, plaid_orange], [3, 2, 4]).
+contains(dark_blue, [shiny_bronze, bright_yellow, vibrant_bronze, dull_blue], [3, 4, 1, 5]).
+contains(vibrant_salmon, [drab_aqua], [4]).
+contains(plaid_coral, [drab_salmon], [2]).
+contains(vibrant_gray, [dark_purple, vibrant_green, clear_teal], [3, 3, 2]).
+contains(clear_gold, [mirrored_green, plaid_gray, bright_gray], [3, 4, 1]).
+contains(posh_salmon, [shiny_bronze, faded_coral, mirrored_chartreuse, vibrant_green], [2, 3, 3, 3]).
+contains(wavy_red, [posh_brown], [1]).
+contains(faded_red, [dim_lavender, bright_plum, striped_orange], [5, 4, 4]).
+contains(striped_lavender, [dull_black, dark_crimson, posh_turquoise, light_beige], [4, 4, 1, 4]).
+contains(dull_tomato, [wavy_silver, muted_yellow, wavy_maroon, dotted_black], [2, 3, 3, 2]).
+contains(shiny_salmon, [wavy_turquoise, dull_green, dull_aqua], [1, 4, 5]).
+contains(pale_yellow, [dull_gray], [1]).
+contains(clear_olive, [posh_crimson, pale_crimson], [1, 4]).
+contains(clear_coral, [dark_orange, dim_crimson], [4, 4]).
+contains(dark_bronze, [mirrored_silver, light_plum], [4, 3]).
+contains(bright_aqua, [vibrant_tan, clear_blue, shiny_violet], [1, 3, 2]).
+contains(striped_blue, [muted_tomato, muted_magenta, drab_white, pale_crimson], [5, 5, 5, 3]).
+contains(dim_lavender, [posh_yellow], [2]).
+contains(dim_green, [mirrored_chartreuse, plaid_orange], [2, 5]).
+contains(plaid_maroon, [dark_magenta, posh_beige, drab_plum, bright_aqua], [1, 1, 5, 5]).
+contains(pale_maroon, [clear_bronze, plaid_blue], [1, 1]).
+contains(clear_salmon, [dark_coral], [1]).
+contains(shiny_magenta, [vibrant_aqua, dim_maroon], [3, 3]).
+contains(mirrored_yellow, [wavy_black, pale_gray, mirrored_magenta], [4, 4, 4]).
+contains(shiny_green, [striped_lime, posh_yellow], [3, 2]).
+contains(dim_aqua, [dotted_aqua], [4]).
+contains(mirrored_olive, [muted_blue, vibrant_tan, posh_yellow], [1, 5, 5]).
+contains(mirrored_violet, [plaid_orange, drab_salmon], [1, 4]).
+contains(pale_chartreuse, [muted_tomato, faded_indigo], [2, 3]).
+contains(striped_maroon, [shiny_lime], [4]).
+contains(muted_indigo, [dim_magenta, muted_orange, dim_beige, vibrant_purple], [4, 3, 2, 4]).
+contains(dim_maroon, [pale_bronze, bright_aqua], [2, 4]).
+contains(pale_teal, [dark_gray, dark_tomato, dull_red], [5, 2, 1]).
+contains(posh_aqua, [mirrored_lavender], [3]).
+contains(vibrant_lime, [wavy_silver], [2]).
+contains(dark_turquoise, [wavy_black], [2]).
+contains(vibrant_gold, [striped_brown, faded_indigo], [2, 2]).
+contains(faded_maroon, [mirrored_tan, posh_beige, posh_orange], [4, 3, 5]).
+contains(faded_fuchsia, [bright_salmon], [1]).
+contains(light_fuchsia, [dull_black], [2]).
+contains(striped_coral, [dull_green, muted_beige, bright_coral, wavy_orange], [1, 2, 2, 5]).
+contains(bright_brown, [plaid_gold], [4]).
+contains(plaid_olive, [dim_coral], [2]).
+contains(dull_yellow, [drab_brown], [3]).
+contains(posh_tomato, [dotted_purple], [3]).
+contains(clear_magenta, [mirrored_brown, dotted_plum, light_coral, drab_maroon], [1, 5, 1, 2]).
+contains(faded_indigo, [drab_gold], [1]).
+contains(plaid_white, [mirrored_fuchsia], [5]).
+contains(bright_green, [posh_beige, dark_green, dull_aqua], [1, 5, 4]).
+contains(bright_gray, [light_lavender], [3]).
+contains(posh_violet, [vibrant_tan, pale_magenta, posh_white, mirrored_gray], [2, 5, 3, 5]).
+contains(dull_teal, [dull_brown, drab_gray, shiny_cyan, mirrored_lavender], [1, 2, 2, 1]).
+contains(shiny_cyan, [bright_plum, shiny_violet], [1, 1]).
+contains(posh_plum, [drab_brown, mirrored_olive, dim_maroon, striped_orange], [4, 4, 4, 4]).
+contains(plaid_fuchsia, [drab_blue], [5]).
+contains(dull_green, [mirrored_red, bright_turquoise, dark_beige], [1, 1, 2]).
+contains(bright_chartreuse, [dim_white, faded_red], [5, 2]).
+contains(faded_beige, [posh_turquoise, vibrant_tan, posh_yellow, mirrored_indigo], [5, 5, 2, 4]).
+contains(dim_chartreuse, [posh_magenta, dotted_crimson, clear_black, striped_olive], [1, 2, 5, 4]).
+contains(drab_indigo, [striped_orange, pale_chartreuse, mirrored_indigo, clear_purple], [5, 1, 2, 4]).
+contains(light_bronze, [muted_red], [4]).
+contains(shiny_teal, [faded_beige, striped_beige, mirrored_olive, plaid_white], [3, 2, 2, 5]).
+contains(shiny_white, [wavy_silver, plaid_turquoise, dim_plum, posh_plum], [2, 3, 1, 4]).
+contains(pale_silver, [pale_cyan, muted_teal, plaid_turquoise, clear_coral], [2, 5, 5, 2]).
+contains(dim_yellow, [vibrant_tomato, bright_salmon, dull_gray], [2, 3, 4]).
+contains(mirrored_indigo, [posh_yellow, faded_red], [5, 5]).
+contains(clear_bronze, [posh_turquoise, faded_black, shiny_coral], [1, 3, 3]).
+contains(mirrored_turquoise, [mirrored_teal, striped_black, dull_teal, clear_black], [2, 4, 4, 4]).
+contains(mirrored_red, [clear_purple, light_red, mirrored_beige], [3, 5, 5]).
+contains(bright_olive, [vibrant_plum], [3]).
+contains(drab_white, [dim_lavender], [4]).
+contains(clear_red, [dark_gray, shiny_green, striped_brown, plaid_olive], [5, 1, 2, 3]).
+contains(vibrant_red, [dull_bronze, dotted_magenta, dark_red, drab_magenta], [2, 2, 5, 1]).
+contains(striped_crimson, [dull_silver, dark_gray, light_red, posh_chartreuse], [4, 4, 4, 2]).
+contains(dotted_tan, [shiny_lime], [4]).
+contains(plaid_orange, [wavy_maroon, drab_brown, dull_black], [1, 2, 5]).
+contains(clear_plum, [muted_yellow, faded_turquoise, faded_beige, dull_aqua], [2, 5, 1, 1]).
+contains(mirrored_bronze, [posh_magenta], [5]).
+contains(mirrored_cyan, [striped_orange, wavy_gray, mirrored_olive, dim_lavender], [4, 3, 1, 2]).
+contains(striped_white, [striped_aqua], [4]).
+contains(bright_red, [dotted_gray, dark_green, shiny_aqua, shiny_indigo], [4, 4, 4, 4]).
+contains(dim_blue, [dull_black, dotted_turquoise], [1, 4]).
+contains(dotted_bronze, [mirrored_indigo, wavy_coral], [5, 4]).
+contains(muted_gold, [wavy_plum], [4]).
+contains(clear_aqua, [clear_teal, mirrored_crimson, dull_silver, bright_crimson], [2, 4, 1, 3]).
+contains(dim_brown, [clear_green, bright_cyan], [3, 5]).
+contains(bright_plum, [striped_orange, pale_lime], [3, 2]).
+contains(bright_blue, [shiny_violet, wavy_gold], [1, 4]).
+contains(bright_maroon, [striped_indigo, striped_beige, shiny_teal], [1, 3, 1]).
+contains(pale_cyan, [dull_gray, mirrored_lime], [1, 2]).
+contains(wavy_chartreuse, [dark_red, plaid_fuchsia, dim_salmon], [5, 5, 2]).
+contains(dull_cyan, [dim_lavender, dull_yellow, dim_crimson, dull_gray], [2, 3, 5, 5]).
+contains(shiny_brown, [wavy_aqua, faded_lime], [3, 2]).
+contains(dim_tan, [pale_orange, mirrored_blue], [5, 2]).
+contains(drab_purple, [vibrant_bronze, pale_magenta], [1, 4]).
+contains(wavy_fuchsia, [bright_aqua, dim_lavender, pale_lime], [3, 2, 4]).
+contains(mirrored_teal, [dull_yellow, faded_black, pale_blue, wavy_coral], [4, 2, 3, 5]).
+contains(plaid_brown, [posh_chartreuse, dark_beige], [4, 2]).
+contains(plaid_tan, [pale_turquoise, dark_teal], [3, 3]).
+contains(posh_tan, [faded_yellow, dim_tomato, dotted_olive, light_violet], [2, 3, 1, 1]).
+contains(plaid_plum, [muted_yellow, dim_crimson], [5, 2]).
+contains(plaid_purple, [posh_magenta], [2]).
+contains(wavy_gold, [shiny_teal, mirrored_lime], [2, 2]).
+contains(striped_tomato, [shiny_maroon, mirrored_lime], [5, 3]).
+contains(vibrant_lavender, [bright_turquoise], [1]).
+contains(muted_violet, [dull_tomato, mirrored_lavender], [2, 4]).
+contains(light_crimson, [drab_violet], [4]).
+contains(bright_crimson, [drab_silver], [3]).
+contains(muted_purple, [dim_aqua], [3]).
+contains(posh_lavender, [mirrored_magenta], [4]).
+contains(posh_olive, [bright_salmon, faded_violet, wavy_indigo, vibrant_yellow], [2, 2, 2, 2]).
+contains(muted_aqua, [bright_red, vibrant_crimson, dotted_red], [4, 3, 3]).
+contains(shiny_aqua, [mirrored_lavender], [2]).
+contains(bright_yellow, [muted_gray, plaid_turquoise, dull_yellow, wavy_green], [2, 4, 1, 5]).
+contains(light_chartreuse, [vibrant_bronze, posh_magenta, dotted_salmon, plaid_red], [5, 5, 2, 3]).
+contains(striped_fuchsia, [dull_plum, mirrored_silver], [4, 5]).
+contains(dull_lavender, [mirrored_lavender, plaid_crimson, dotted_turquoise, drab_purple], [4, 2, 4, 2]).
+contains(mirrored_lime, [pale_lime, light_turquoise, bright_plum], [2, 4, 5]).
+contains(wavy_turquoise, [pale_bronze], [1]).
+contains(pale_magenta, [dull_teal, muted_red], [2, 2]).
+contains(dotted_plum, [light_red], [5]).
+contains(drab_bronze, [muted_blue, faded_teal, faded_yellow], [5, 1, 3]).
+contains(plaid_teal, [wavy_maroon, pale_brown], [4, 5]).
+contains(plaid_indigo, [light_olive, clear_salmon, wavy_lime, drab_black], [5, 4, 1, 4]).
+contains(shiny_blue, [bright_turquoise, mirrored_red, pale_brown, dark_violet], [3, 3, 1, 2]).
+contains(striped_turquoise, [pale_tomato, light_turquoise], [4, 1]).
+contains(mirrored_white, [dim_chartreuse], [4]).
+contains(dark_fuchsia, [dotted_lavender, pale_gray, light_crimson, shiny_lavender], [2, 5, 5, 5]).
+contains(posh_blue, [dark_orange], [5]).
+contains(shiny_tan, [bright_magenta, clear_beige, pale_lime], [5, 2, 1]).
+contains(dark_lime, [shiny_magenta, muted_cyan], [1, 2]).
+contains(bright_magenta, [clear_blue, wavy_indigo], [3, 3]).
+contains(dotted_crimson, [wavy_turquoise], [2]).
+contains(dotted_maroon, [dark_green, striped_lime, dotted_black, striped_beige], [5, 1, 1, 5]).
+contains(dark_brown, [pale_white], [3]).
+contains(vibrant_coral, [plaid_olive, dim_maroon], [5, 5]).
+contains(posh_teal, [shiny_white], [5]).
+contains(plaid_crimson, [dark_coral, dotted_beige, dotted_gray], [1, 2, 1]).
+contains(mirrored_salmon, [plaid_lavender, striped_orange, clear_purple], [1, 2, 4]).
+contains(vibrant_orange, [], []).
+contains(vibrant_plum, [pale_red, drab_plum], [1, 2]).
+contains(dim_gray, [dull_salmon], [5]).
+contains(shiny_maroon, [dim_plum, pale_black, dark_red, light_maroon], [3, 4, 3, 4]).
+contains(muted_tomato, [pale_bronze, dim_crimson, striped_beige, muted_yellow], [1, 3, 3, 3]).
+contains(dotted_white, [striped_red], [5]).
+contains(wavy_plum, [dull_indigo, plaid_turquoise, dull_silver, clear_tan], [2, 3, 1, 5]).
+contains(light_violet, [dim_crimson, drab_brown], [3, 2]).
+contains(muted_salmon, [clear_yellow, faded_plum], [2, 3]).
+contains(plaid_turquoise, [faded_yellow], [4]).
+contains(pale_bronze, [dim_plum, posh_maroon, dim_lavender], [2, 1, 4]).
+contains(clear_chartreuse, [clear_salmon, faded_purple, mirrored_tan], [1, 4, 5]).
+contains(bright_purple, [clear_salmon, shiny_red, dotted_aqua, wavy_plum], [5, 5, 5, 1]).
+contains(faded_gold, [faded_indigo], [2]).
+contains(striped_brown, [posh_magenta, dull_olive, dotted_purple, dark_beige], [1, 2, 3, 1]).
+contains(faded_gray, [shiny_green], [3]).
+contains(wavy_purple, [dark_beige, dotted_bronze], [2, 2]).
+contains(striped_olive, [clear_tan, dim_salmon, dotted_gold], [1, 2, 2]).
+contains(dull_crimson, [drab_red], [2]).
+contains(dark_plum, [dark_blue, light_yellow, striped_silver], [1, 2, 2]).
+contains(faded_violet, [dotted_gray, muted_blue], [4, 5]).
+contains(plaid_black, [posh_aqua, plaid_orange], [2, 5]).
+contains(light_green, [muted_silver, muted_tomato, mirrored_teal], [4, 2, 3]).
