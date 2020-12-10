@@ -1,5 +1,9 @@
 # misc
 test.txt
+test
 
 # java
 *.class
+
+# rust
+target
