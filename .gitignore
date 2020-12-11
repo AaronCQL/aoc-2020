@@ -7,3 +7,10 @@ test
 
 # rust
 target
+
+# js/ts
+node_modules
+yarn.lock
+
+# c/c++
+*.out
