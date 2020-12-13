@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2019", // to transpile optional chaining down for ts-node
+    "strict": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true
+  },
+  "include": [
+    "index.ts"
+  ]
+}
