@@ -52,20 +52,17 @@ function part1(otherTickets, ranges) {
 }
 
 function part2(rules, ticket, otherTickets) {
-  const mapCount = {};
-  for (const field in rules) {
-    mapCount[field] = 0;
-  }
-
-  const requiredIndices = [];
+  // array of possible fields for each column of the ticket
+  const possibleFields = [];
 
   const tickets = [...otherTickets, ticket];
   for (let i = 0; i < ticket.length; i++) {
+    const mapCount = {};
     for (let j = 0; j < tickets.length; j++) {
       const currNum = tickets[j][i];
       for (const [field, tuples] of Object.entries(rules)) {
         if (mapCount[field] == null) {
-          continue;
+          mapCount[field] = 0;
         }
         for (const [min, max] of tuples) {
           if (currNum >= min && currNum <= max) {
@@ -74,22 +71,30 @@ function part2(rules, ticket, otherTickets) {
         }
       }
     }
-    let validField = Object.keys(mapCount)[0]; // assume first field is valid
-    for (const field in mapCount) {
-      validField = mapCount[field] > mapCount[validField] ? field : validField;
-    }
-    console.log(validField);
-    console.log(mapCount);
-    if (validField.includes("departure")) {
-      requiredIndices.push(i);
-    }
-    delete mapCount[validField];
-    for (const field in mapCount) {
-      mapCount[field] = 0;
+    possibleFields[i] = new Set();
+    for (const [field, count] of Object.entries(mapCount)) {
+      if (count === tickets.length) {
+        possibleFields[i].add(field);
+      }
     }
   }
 
-  return requiredIndices.reduce((sum, idx) => sum + ticket[idx], 0);
+  // get the column indices for the required departure fields:
+  const requiredIndices = [];
+  while (requiredIndices.length < 6) {
+    for (const [idx, set] of Object.entries(possibleFields)) {
+      if (set.size === 1) {
+        const field = set.values().next().value;
+        possibleFields.forEach((set) => set.delete(field));
+        if (field.includes("departure")) {
+          requiredIndices.push(idx);
+        }
+        break;
+      }
+    }
+  }
+
+  return requiredIndices.reduce((acc, idx) => acc * ticket[idx], 1);
 }
 
 const rules = parseRules();
